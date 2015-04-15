@@ -1,0 +1,25 @@
+Binary file ./graph500 matches
+./CPU_s14.txt:135:harmonic_stddev_TEPS: 4.41495880482542049e+06
+./CPU_s15.txt:135:harmonic_stddev_TEPS: 1.09710648267993866e+06
+./CPU_s16.txt:135:harmonic_stddev_TEPS: 1.03613371917812237e+04
+./CPU_s17.txt:135:harmonic_stddev_TEPS: 2.07194012479660334e+06
+./CPU_s18.txt:135:harmonic_stddev_TEPS: 1.04574841849139158e+06
+./CPU_s19.txt:135:harmonic_stddev_TEPS: 1.01749063757861700e+03
+./CPU_s20.txt:135:harmonic_stddev_TEPS: 8.70846176838964340e+05
+./CPU_s21.txt:135:harmonic_stddev_TEPS: 1.17381719961023843e+06
+./GPU_s14.txt:135:harmonic_stddev_TEPS: 3.49677523141471844e+05
+./GPU_s15.txt:135:harmonic_stddev_TEPS: 1.77084876766815287e+05
+./GPU_s16.txt:135:harmonic_stddev_TEPS: 2.00932573897676178e+02
+./GPU_s17.txt:135:harmonic_stddev_TEPS: 1.53223330788438150e+05
+./GPU_s18.txt:135:harmonic_stddev_TEPS: 8.08552899956374167e+04
+./GPU_s19.txt:135:harmonic_stddev_TEPS: 2.20130662100380974e+01
+./GPU_s20.txt:135:harmonic_stddev_TEPS: 1.45002152127456618e+05
+./GPU_s21.txt:135:harmonic_stddev_TEPS: 1.27981171239986783e+05
+./HYB_s14.txt:136:harmonic_stddev_TEPS: 1.06040054254866205e+06
+./HYB_s15.txt:136:harmonic_stddev_TEPS: 1.19439301600007224e+06
+./HYB_s16.txt:136:harmonic_stddev_TEPS: 3.10946158120440032e+02
+./HYB_s17.txt:136:harmonic_stddev_TEPS: 1.30677363574392186e+06
+./HYB_s18.txt:136:harmonic_stddev_TEPS: 2.22335061702236347e+06
+./HYB_s19.txt:136:harmonic_stddev_TEPS: 4.52228968535458904e+01
+./HYB_s20.txt:136:harmonic_stddev_TEPS: 2.02681154598058667e+06
+./HYB_s21.txt:136:harmonic_stddev_TEPS: 2.38964157577328803e+06
