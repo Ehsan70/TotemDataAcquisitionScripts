@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# This script will run the graph 500 benchmarc for different scales and it saves the results to
-# a file for that scale. 
+# This script will run the graph 500 benchmark for only Hybrid for different scales yet various
+# partitioning algorithms. It saves the results to a file for that scale. 
+
+#in the name of the output files: 
+#	HC -> means High degree nodes on CPU
+# 	LC -> means Low degree nodes on CPU
+# the Above two specify the Partitioning mechanisim. 
 
 RED='\033[0;31m'
 NC='\033[0m' # No Color
