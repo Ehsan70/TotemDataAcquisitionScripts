@@ -46,4 +46,3 @@ do
 	#cat tmp.txt | tee >(head -10 >> TMP_CPU_s$SCALE.txt) | tail -30 >> TMP_CPU_s$SCALE.txt
 
 done 
-
